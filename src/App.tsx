@@ -50,6 +50,8 @@ const Box = styled.div`
   justify-content: center;
   align-items: center;
   gap: 20px;
+  /* flex-wrap: wrap;
+  align-content: center; */
 
   button {
     cursor: pointer;
